@@ -9,7 +9,7 @@ class Xcodecoverageconverter < Formula
   head "https://github.com/twittemb/XcodeCoverageConverter.git"
 
   depends_on :xcode => ["11.0", :build] 
-  version "0.1.1"
+  version "0.1.2"
   sha256 ""
   license "MIT"
 
