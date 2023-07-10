@@ -5,11 +5,11 @@ class Xcodecoverageconverter < Formula
   desc ""
   homepage "https://github.com/twittemb/XcodeCoverageConverter"
   url "https://github.com/twittemb/XcodeCoverageConverter.git",
-      :tag => "0.2.1", :revision => "3e668c2b0a9aed9bbc67391d1f9e64232e8edb40"
+      :tag => "0.2.2", :revision => "c27ddccc0b9e4694b5e42dbc5db81b94ea1d27f2"
   head "https://github.com/twittemb/XcodeCoverageConverter.git"
 
   depends_on :xcode => ["11.0", :build] 
-  version "0.2.1"
+  version "0.2.2"
   sha256 ""
   license "MIT"
 
